@@ -9,6 +9,6 @@
 
 Create an Environment 
 
-'''
+```
 conda create -p envi python==3.10.6 -y
-'''
+```
